@@ -2,4 +2,4 @@
 demo-view
 
 ## 点击查看演示
-<a href="views/">views</a>
+<a href="views/info.html">views</a>
